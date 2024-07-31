@@ -3,7 +3,7 @@ public class recursion {
 
         public static void Decnum(int n) {
             if (n == 1) {
-                System.out.println(n);
+                System.out.println(1);
                 return;
             }
             System.out.print(n + " ");
